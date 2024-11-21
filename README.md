@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**developer-sultan/developer-sultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github-banner](https://github.com/user-attachments/assets/a18e429c-230e-48f2-a36c-9c03e8759406)
+## 👋 I'm Sultan Mahmud
+A passionate programmer and full-stack web developer<br>
+🏡Living: Sulaymaniah, Iraq.
+### 🧑‍🎓 About Me
+I am a self-thought programmer and problem solver. I'm highly interested in coding and create scalable web application for business holders. I always try to do something unique with my skill sets. My hobbies to become a competitive programmer and good solution provider. 
+## 🧑‍💻 My Skills 
 
-Here are some ideas to get you started:
+#### Key skills on web development
+<img src="https://github.com/user-attachments/assets/80df4270-5c4d-4133-9953-ef8fd6b79c71" alt="html" width="50" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/f1d3f102-d408-4144-9267-821d49b0b7c4" alt="css" width="50" height="80"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/1746c934-c6c4-44f8-a41a-b971f55b43d0" alt="js" width="65" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/f9bfa8af-e598-4f40-9afd-38724bf31129" alt="Json" width="50" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/66f47f84-7f44-4ac6-8df3-61e5a8867f5e" alt="github" width="50" height="80">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
