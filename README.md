@@ -1,5 +1,6 @@
 
-![github-banner](https://github.com/user-attachments/assets/a2a8a7ca-59ef-4292-a787-fff61935437f)
+
+![github-banner](https://github.com/user-attachments/assets/73d3b761-5022-45b9-b126-d7ba4c98b53e)
 
 ## 👋 I'm Sultan Mahmud
 A passionate programmer and full-stack web developer<br>
