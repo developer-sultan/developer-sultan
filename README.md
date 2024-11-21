@@ -1,5 +1,6 @@
 
-![github-banner](https://github.com/user-attachments/assets/a18e429c-230e-48f2-a36c-9c03e8759406)
+![github-banner](https://github.com/user-attachments/assets/a2a8a7ca-59ef-4292-a787-fff61935437f)
+
 ## 👋 I'm Sultan Mahmud
 A passionate programmer and full-stack web developer<br>
 🏡Living: Sulaymaniah, Iraq.
