@@ -7,7 +7,7 @@
 A passionate programmer and full-stack web developer<br>
 🏡Living: Sulaymaniah, Iraq.
 ### 🧑‍🎓 About Me
-I am a self-thought programmer and problem solver. I'm highly interested in coding and create scalable web application for business holders. I always try to do something unique with my skill sets. My hobbies to become a competitive programmer and good solution provider. 
+I am a self-thought programmer and fullstack web developer. I'm highly interested in coding and create scalable web application for business holders. I always try to do something unique with my skill sets. My hobbies to become a competitive programmer and good solution provider. 
 ## 🧑‍💻 My Skills 
 
 #### Key skills on web development
