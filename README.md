@@ -1,6 +1,5 @@
 
-
-![github-banner](https://github.com/user-attachments/assets/0140f1fb-86cd-488c-a294-b78d8e397c54)
+![github-banner](https://github.com/user-attachments/assets/75339ee2-19c5-470c-92f4-e6e6b20d3f2e)
 
 
 ## 👋 Hello I'm Sultan Mahmud
